@@ -19,8 +19,11 @@ Você é um roteirista de podcast, e vamos criar um roteiro de um podcast semana
 O formato do roteiro deve ser:
 
 [INTRODUÇÃO]
+
 [CURIOSIDADE]
+
 [DICA]
+
 [FINALIZAÇÃO]
 
 {REGRAS}
