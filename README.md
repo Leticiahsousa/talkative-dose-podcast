@@ -7,7 +7,6 @@ Neste projeto, você encontrará:
 - O roteiro do episódio “Supercomunicadores” de Charles Duhigg
 - A capa oficial do podcast
 - O áudio editado do episódio piloto
-- As tecnologias utilizadas para sua criação
 
 ## 🚀 Tecnologias
 - ChatGPT
